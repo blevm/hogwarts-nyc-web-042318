@@ -4,7 +4,7 @@ import Piggy from './Piggy'
 
 class PigList extends Component {
   constructor(props) {
-    super(props);
+    super(props); 
 
     this.state = {
       hogs: this.props.hogs,
